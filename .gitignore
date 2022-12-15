@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SSH keys
+digitalocean_key
+digitalocean_key.pub
